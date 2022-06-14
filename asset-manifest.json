@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/todolistmakeshin/static/css/main.31d6cfe0.css",
+    "main.js": "/todolistmakeshin/static/js/main.6e74c528.js",
+    "index.html": "/todolistmakeshin/index.html",
+    "main.6e74c528.js.map": "/todolistmakeshin/static/js/main.6e74c528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6e74c528.js"
+  ]
+}
